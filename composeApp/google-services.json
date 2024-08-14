@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "517489874516",
+    "project_id": "formloginregistotp",
+    "storage_bucket": "formloginregistotp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517489874516:android:774a7382df91fb24bebfc1",
+        "android_client_info": {
+          "package_name": "com.diskominfo.ragem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9f8vrs6fHgWwg1-tmOx5DPi6oK68BuWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517489874516:android:c4a9c1d2593c5c15bebfc1",
+        "android_client_info": {
+          "package_name": "com.example.jetpackcomposeauthui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9f8vrs6fHgWwg1-tmOx5DPi6oK68BuWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517489874516:android:c646559604cd773fbebfc1",
+        "android_client_info": {
+          "package_name": "com.programminSimplified.firebaseproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9f8vrs6fHgWwg1-tmOx5DPi6oK68BuWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
